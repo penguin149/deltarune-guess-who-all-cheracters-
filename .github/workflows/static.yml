@@ -33,7 +33,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Build
-        run: ./scripts/make-meta.sh
+        run: bash ./scripts/make-meta.sh
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
