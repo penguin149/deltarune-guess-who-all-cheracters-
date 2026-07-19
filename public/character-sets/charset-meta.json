@@ -1,1 +1,24 @@
-
+{
+  "sets": [
+    {
+      "id": "deltarune-all",
+      "name": "Deltarune All",
+      "folder": "1-Deltarune All"
+    },
+    {
+      "id": "deltarune-ch1-4",
+      "name": "Deltarune Ch. 1-4",
+      "folder": "2-Deltarune Ch. 1-4"
+    },
+    {
+      "id": "undertale",
+      "name": "Undertale",
+      "folder": "3-Undertale"
+    },
+    {
+      "id": "undertale-yellow",
+      "name": "Undertale Yellow",
+      "folder": "4-Undertale Yellow"
+    }
+  ]
+}
