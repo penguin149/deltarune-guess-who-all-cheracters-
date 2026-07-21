@@ -255,14 +255,14 @@ ol>li {
 
 ul>li a:focus-visible::before,
 ul>li label:focus-visible::before {
-  content     : url("img/sHeart_0.png");
+  content     : url("./img/sHeart_0.png");
   margin-left : -0.75rem;
   margin-right: 0.125rem;
 }
 
 :not(li)>a:focus-visible::before,
 :not(li)>label:focus-visible::before {
-  content     : url("img/sHeart_0.png");
+  content     : url("./img/sHeart_0.png");
   margin-right: 0.125rem;
 }
 
